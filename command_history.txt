@@ -1,0 +1,50 @@
+/mvtp Schweitzenburg Building
+/login Jang$1999
+/mvtp Creative
+/login Jang$1999
+/mvtp Creative
+/mvtp Survival
+/login Jang$1999
+/tp LeDan
+/loq
+/locate structure accient=city
+/locate structure accient_city
+/locate LeDan
+/mvcreate world normal Test
+/mvtp world
+/locate structure minecraft:accient_city
+/login Jang$1999
+/op Locst
+/tp Locst
+/login Jang$1999
+/mvtp St_Wamford
+/mvtp Creative
+/login Jang$1999
+/tp Locst
+/kill 45d347ef-d0be-4d92-813c-433d14f37820
+/kill 3341b7c3-8031-414b-bbdb-8562a5d471b2
+/mvtp Building
+/tp Locst
+/fill -1441
+/fill -1441 91 3117
+/fill -1441 91 3117 -1441 91 3118 air
+/fill -1407 100 3125 -1407 100 3125 air
+/fill -1407 100 3125 -1407 100 3125 minecraft:water
+/fill -1407 98 3125 -1407 98 3125 minecraft:water
+/setblock -1408 98 3137 minecraft:water
+/setblock -1407 100 3125 minecraft:water
+/setblock -1407 99 3124 minecraft:water
+/kill bfbae0f5-4cfe-4e95-bf36-d284ad6a247e
+/kill @e[type=minecraft:ender_dragon]
+/clone -197 73 7
+/clone -197 73 7 -206 86 13
+/clone -197 73 7 -206 86 13 ~ ~ ~ replace move
+/fill -188 64 -4
+/fill -188 64 -4 -187 94 5 minecraft:black_concrete
+/fill -187 64 -4
+/fill -187 64 -4 -187 94 5 air
+/fill -187 71 5
+/fill -187 71 5 -188 94 -4 minecraft:black_concrete
+/clone -236 64 -16
+/clone -236 64 -16 -174 64 -12
+/clone -236 64 -16 -174 64 -12 -226 64 -16 replace force

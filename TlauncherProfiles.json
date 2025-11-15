@@ -1,0 +1,16 @@
+{
+  "clientToken": "8ef467cb-2633-4e7a-b74a-3f74862fba41",
+  "accounts": {
+    "bc07b3662b7d42049e5624d631c7caeb": {
+      "username": "Japtor",
+      "userID": "Japtor",
+      "displayName": "Japtor",
+      "uuid": "bc07b3662b7d42049e5624d631c7caeb",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "bc07b3662b7d42049e5624d631c7caeb",
+  "freeAccountUUID": "bc07b3662b7d42049e5624d631c7caeb"
+}

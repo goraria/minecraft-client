@@ -1,0 +1,14 @@
+/.idea
+/.vscode
+/logs
+/mods
+/backup
+/versions
+/runtime
+/debug
+
+/assets
+/libraries
+/saves**
+
+**/.DS_Store
